@@ -1,0 +1,14 @@
+.sidebar {
+  float: right;
+  width: 25%;
+  background-color: blue;
+  color: red;
+  border-color: black;
+  border-width: thick;
+  border-spacing: 40px;
+  border-style: solid;
+}
+
+img{
+  float: left;
+}
