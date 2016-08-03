@@ -3,12 +3,14 @@
   width: 25%;
   background-color: blue;
   color: red;
-  border-color: black;
-  border-width: thick;
-  border-spacing: 40px;
-  border-style: solid;
+  padding: 10px;
+  border: 10px solid yellow;
+  margin: 30px;
 }
 
 img{
   float: left;
+  padding: 10px;
+  border: 10px solid green;
+  margin: 20px;
 }
